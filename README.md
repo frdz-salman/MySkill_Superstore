@@ -30,7 +30,9 @@
 
 As part of the MySkill Data Analyst Bootcamp, this project showcases my ability to transform complex transaction data into informative and interactive visualizations using Tableau. By developing a comprehensive sales performance dashboard, I designed strategic filters and visual elements to monitor key metrics such as customer count, revenue trends, payment methods, and product category performance, enabling data-driven decision-making.
 
-![Logo](https://raw.githubusercontent.com/frdz-salman/Global-Electronics-Analysis/refs/heads/master/visualization/ERD.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frdz-salman/MySkill_Superstore/refs/heads/main/Visualization/ERD.webp" alt="Sales Trends" width="900">
+</p>
 
 ---
 
@@ -48,7 +50,9 @@ This analysis of 2021–2022 e-commerce data, based on 3,955 customers and 8,307
 - September 2022 recorded the sharpest spike (YoY +48.13%, MoM +635.66%), followed by a dramatic drop in October (MoM -89.94%).
 - April was the weakest month (IDR 22.21M), signaling an opportunity for targeted campaigns.
 
-![Logo](https://raw.githubusercontent.com/frdz-salman/Global-Electronics-Analysis/refs/heads/master/visualization/Sales%20Trends.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frdz-salman/MySkill_Superstore/refs/heads/main/Visualization/total%20sales.webp" alt="Sales Trends" width="1200">
+</p>
 
 ### Category Trends & Year-on-Year Changes
 
@@ -56,7 +60,9 @@ This analysis of 2021–2022 e-commerce data, based on 3,955 customers and 8,307
 - Women Fashion and Superstore also posted positive growth, while Others saw the steepest decline (-46.27%) and Books dropped by -32.91%, reflecting shifting consumer preferences towards digital media.
 - Overall business performance showed strong gains, with total revenue growing 90.41%, quantity sold increasing 46.86%, and average order value rising 44.49%, indicating higher customer spending per order.
 
-![Logo](https://raw.githubusercontent.com/frdz-salman/Global-Electronics-Analysis/refs/heads/master/visualization/Sales%20Geo.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frdz-salman/MySkill_Superstore/refs/heads/main/Visualization/category.webp" alt="Sales Trends" width="900">
+</p>
 
 ### Weekday vs Weekend Sales Behavior
 
@@ -64,14 +70,15 @@ This analysis of 2021–2022 e-commerce data, based on 3,955 customers and 8,307
 - November had the highest weekend sales average, while December had the lowest weekday average.
 - Data was analyzed before discount to reflect organic buying behavior without campaign influence.
 
-![Logo](https://raw.githubusercontent.com/frdz-salman/Global-Electronics-Analysis/refs/heads/master/visualization/Customer.webp)
 
 ### Top Product Performance
 
 - The IDROID BALRX7 Gold dominated 2022 sales with 1,000 units sold, far surpassing the Jet Black variant (31 units).
 - Other notable products, such as the Infinix Hot 4 Gold (15 units), Infinix Zero 4 Grey (10 units), and Samsung Grand Prime Plus Black (11 units), recorded relatively low sales, indicating weaker demand compared to the category leader.
 
-![Logo](https://raw.githubusercontent.com/frdz-salman/Global-Electronics-Analysis/refs/heads/master/visualization/Store.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frdz-salman/MySkill_Superstore/refs/heads/main/Visualization/top%20product.webp" alt="Sales Trends" width="1200">
+</p>
 
 ### Brand Performance
 
@@ -79,22 +86,27 @@ This analysis of 2021–2022 e-commerce data, based on 3,955 customers and 8,307
 - Other brands such as Sony, Huawei, and Lenovo competed in much smaller segments, with relatively similar sales values.
 - The gap between the top two brands and the rest indicates a market dominated by Samsung and Apple.
 
-
-![Logo](https://raw.githubusercontent.com/frdz-salman/Global-Electronics-Analysis/refs/heads/master/visualization/Brand.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frdz-salman/MySkill_Superstore/refs/heads/main/Visualization/brand.webp" alt="Sales Trends" width="600">
+</p>
 
 ### Payment Methods & Consumer Behavior
 
 - Cash on Delivery (COD) remained the dominant payment method with 1,809 transactions, driven by trust, limited access to digital payments, and habit.
 - Payaxis was the most-used digital payment option, though far behind COD, while other methods like Customer Credit, Easypay, and Jazzwallet recorded minimal usage.
 
-![Logo](https://raw.githubusercontent.com/frdz-salman/Global-Electronics-Analysis/refs/heads/master/visualization/Day%20detail.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frdz-salman/MySkill_Superstore/refs/heads/main/Visualization/payment.webp" alt="Sales Trends" width="600">
+</p>
 
 ### Unpaid Orders & Risk Factors
 
 - A total of 1,379 customers had unpaid orders, increasing unpaid revenue and profit risks.
 - This points to possible payment process issues or high cancellation/abandonment rates.
 
-![Logo](https://raw.githubusercontent.com/frdz-salman/Global-Electronics-Analysis/refs/heads/master/visualization/Product.webp)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frdz-salman/MySkill_Superstore/refs/heads/main/Visualization/unpaid.webp" alt="Sales Trends" width="700">
+</p>
 
 ---
 
