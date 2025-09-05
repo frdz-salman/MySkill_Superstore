@@ -30,15 +30,18 @@
 
 As part of the MySkill Data Analyst Bootcamp, this project showcases my ability to transform complex transaction data into informative and interactive visualizations using Tableau. By developing a comprehensive sales performance dashboard, I designed strategic filters and visual elements to monitor key metrics such as customer count, revenue trends, payment methods, and product category performance, enabling data-driven decision-making.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/frdz-salman/MySkill_Superstore/refs/heads/main/Visualization/ERD.webp" alt="Sales Trends" width="900">
-</p>
-
 ---
 
 ## Executive Summary
 
 This analysis of 2021–2022 e-commerce data, based on 3,955 customers and 8,307 valid orders, generated Rp 3.67 billion in revenue and Rp 820 million in net profit. Revenue grew 90.41% year-on-year, supported by a 46.86% increase in quantity sold and a 44.49% rise in average order value. Mobiles & Tablets—driven by Samsung and Apple—led with 147.82% growth, while Others and Books declined. Sales peaked in September due to promotions, dipped sharply in October, and were consistently stronger on weekdays. Cash on Delivery dominated payment preferences, highlighting trust and accessibility factors, yet 1,379 unpaid orders remain a revenue risk. The findings illustrate how analysis can identify trends, address inefficiencies, and guide strategic decisions.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frdz-salman/MySkill_Superstore/refs/heads/main/Visualization/ERD.webp" alt="Sales Trends" width="900">
+</p>
+
+<p align="center">Superstore Dataset ERD
+</p>
 
 ---
 
